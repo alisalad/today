@@ -2,9 +2,9 @@
 author = "Theme author"
 categories = ["Hugo"]
 date = "2019-10-11"
-description = "Abiy Ahmed"
+description = ""
 featured = "abiy.jpg"
-featuredalt = "Pic 3"
+featuredalt = "abiy"
 featuredpath = "date"
 linktitle = ""
 title = "Abiy Ahmed oo ku guuleystay billada Nobel Peace Prize"
@@ -12,7 +12,7 @@ type = "post"
 
 +++
 
-## Abiy Ahmed oo ku guuleystay billada Nobel Peace Prize
+## 
 
 Ra’iisul wasaaraha Itoobiya, Abiy Ahmed ayaa maanta ku guuleystay billada nabadda ee Nobel Peace Prize, sida uu shaaca ka qaaday guddiga Nobel ee fadhigiisu yahay dalka Norway.
 
