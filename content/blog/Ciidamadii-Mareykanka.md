@@ -24,4 +24,4 @@ Madaxweynaha Turkiga Reccep Tayyip Erdogan ayaa ka digay in Ankara ay dib u bill
 
 Axaddii, ciidamada SDF ayaa sheegay inay ka baxeen magaalada xuduudda ku taalla ee Ras al-Ain, taasi oo qeyb ka ahayd heshiiska xabad joojinta Mareykanka uu ka shaqeeyey, hase yeeshee ciidamada mucaaradka Syria ee uu taageero Turkiga, ayaa sheegay in weli aysan si buuxda uga wada bixin.
 
-Reuters
+# Reuters
